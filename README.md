@@ -1,2 +1,3 @@
 # lista_tarefas
-Lista de Tarefas em React (com Typescript) -
+Lista de Tarefas em React e TypeScript -
+
